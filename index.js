@@ -1,3 +1,3 @@
-module.exports = function Castanic_Male_White_Hair(mod) {
-    mod.installGPK("Castanic_M_Head.gpk");
+module.exports = function Black_PUBG_Costume_for_males(mod) {
+    mod.installGPK("PC_Event_71.gpk");
 }

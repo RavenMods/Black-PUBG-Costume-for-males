@@ -1,10 +1,10 @@
 {
-    "name": "Castanic-Male-White-Hair",
+    "name": "Black-PUBG-Costume-for-males",
     "category": "client",
-    "description": "This mod will alter other colors making them brighter/improving pastels.",
+    "description": "This mod will change the appearance of the PUBG event costume, making it full black with red accents.",
     "author": "Raven",
     "options": {
-        "niceName": "Castanic Male White Hair"
+        "niceName": "Black PUGB Costume"
     },
-    "servers": ["https://raw.githubusercontent.com/RavenMods/Castanic-Male-White-Hair/master/"]
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Black-PUBG-Costume-for-males/tree/master"]
 }
