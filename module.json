@@ -4,6 +4,7 @@
     "description": "This mod will change the appearance of the PUBG event costume, making it full black with red accents.",
     "author": "Raven",
     "options": {
+        "guiName": "Costume: Black PUGB Costume",
         "niceName": "Black PUGB Costume"
     },
     "servers": ["https://raw.githubusercontent.com/RavenMods/Black-PUBG-Costume-for-males/master/"]
